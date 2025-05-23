@@ -39,6 +39,6 @@
 
 ### 🔗 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/satyam-nishad-4b04b4198/)" /></a>
   <a href="mailto:satyamnishad391@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
