@@ -10,6 +10,21 @@
 
 ---
 
+### 🎓 Academic Background:
+
+<img src="https://github.com/satyam0391/satyam0391/blob/main/IIITNlogo.jpg?raw=true" alt="IIIT Nagpur Logo" width="600" height="80" />
+
+**ECE Engineering Undergraduate**  
+📍 *Indian Institute of Information Technology, Nagpur*  
+📅 *In progress (Aug 2023 – May 2027)*
+
+🔍 Exploring the world of hardware, RTL design, and real-time systems with hands-on embedded projects and a curiosity that never stops.
+
+> "Driven by curiosity and the urge to innovate — learning to transform ideas into reality."
+
+
+---
+
 ### 🛠️ Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
@@ -19,14 +34,6 @@
   <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=MathWorks&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-8086?style=for-the-badge&logoColor=white&color=6A5ACD" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamnishad&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamnishad&theme=tokyonight" />
 </p>
 
 ---
