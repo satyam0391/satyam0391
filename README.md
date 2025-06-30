@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **RTL Design, Raspberry Pi, and Embedded Systems**
 - 💬 Ask me about **Digital Electronics, RTL Design, Arduino, ESP32, Raspberry Pi, Python**
 - 📫 How to reach me: **satyamnishad391@gmail.com**
-- ⚡ Fun fact: Since childhood, I’ve loved opening up and building things — now I’m learning to make them better!
+-  Since childhood, I’ve loved opening up and building things — now I’m learning to make them better!
 
 ---
 
