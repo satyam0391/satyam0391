@@ -44,16 +44,16 @@
   <strong>
   💻 <b>OS:</b> Windows 11, Linux<br>
   🏫 <b>Host:</b> Student @ IIIT Nagpur<br>
-  🔤 <b>Languages.Programming:</b> Verilog, SystemVerilog, C++, Python<br>
+  🔤 <b>Languages:</b> Verilog, SystemVerilog, C++, Python<br>
   🧰 <b>Tools:</b> Intel Quartus Prime, ModelSim, Xilinx Vivado, VSCode<br>
   🌐 <b>Languages.Real:</b> English, Hindi<br>
   ⚙️ <b>Hobbies:</b>  VLSI, Embedded Projects, IoT Systems<br>
 <br>
-  🔭 <b>Currently Working On:</b> #100DaysOfRTLCode<br>
-  🌱 <b>Learning:</b> Digital Electronics, RTL Design<br>
-  👯 <b>Collaborating On:</b> RTL Design, Raspberry Pi, Embedded Systems<br>
-  💬 <b>Ask Me About:</b> RTL Design, Arduino, ESP32, Raspberry Pi, Python<br>
-  📫 <b>Email:</b> satyamnishad391@gmail.com<br>
+  ---🔭 <b>Currently Working On:</b> #100DaysOfRTLCode<br>
+  ---🌱 <b>Learning:</b> Digital Electronics, RTL Design<br>
+  ---👯 <b>Collaborating On:</b> RTL Design, Raspberry Pi, Embedded Systems<br>
+  ---💬 <b>Ask Me About:</b> RTL Design, Arduino, ESP32, Raspberry Pi, Python<br>
+  ---📫 <b>Email:</b> satyamnishad391@gmail.com<br>
 ---
   Since childhood, I’ve loved opening up and building things — now I’m learning to make them better!
   </strong>
