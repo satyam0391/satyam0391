@@ -48,17 +48,17 @@
 ### 👨‍💻 About Me
 - 💻 **OS:** Windows 11, Linux  
 - 🏫 **Student @ IIIT Nagpur**  
-- 🔤 **Languages:** Verilog, SystemVerilog, C++, Python  
+- 🔤 **Languages:** Verilog, TCL (basic), C Language, Python, MATLAB  
 - 🧰 **Tools:** Quartus Prime, ModelSim, Vivado, VSCode  
 - 🌐 **Languages (Real):** English, Hindi  
-- ⚙️ **Hobbies:** VLSI, Embedded Projects, IoT Systems  
+- ⚙️ **Hobbies:** VLSI, Analog Layouting, Projects  
 
 ---
 
 ### 🚀 Currently
-- 🔭 **Working on:** #100DaysOfRTLCode  
-- 🌱 **Learning:** Digital Electronics, RTL Design  
-- 👯 **Collaborating on:** RTL Design, Raspberry Pi, Embedded Systems  
+- 🔭 **Working on:** VCO and PLL  
+- 🌱 **Learning:** Digital Electronics, Analog Circuit Design, RTL to GDS, RTL Design  
+- 👯 **Collaborating on:** RTL Design, Raspberry Pi, Embedded Systems, Analog Physical Design (RTL to GDS)  
 - 💬 **Ask Me About:** RTL Design, Arduino, ESP32, Raspberry Pi, Python  
 
 ---
@@ -122,8 +122,19 @@
 ---
 
 ### 🚀 Projects
-- 💡 **Smart RC Car with Accelerometer**  
-- 🔐 **Smart Surveillance System using Raspberry Pi**  
+
+- 🧠 **Proposed and Designed Highly Stable 11T SRAM Cell with Low Leakage Power**
+- ⚡ **CMOS Design of Differential Pair in Virtuoso (90nm GPDK)**
+- 🛠️ **Zoho Setu RiscV**
+- 🔍 **CMOS Inverter Layout in Cadence Virtuoso (90nm GPDK)**
+- 🔢 **32-bit ALU – RTL to GDS (45nm Node)**
+- 🧩 **100DaysOfRTL**
+- 🚀 **RISC-V Processor (32-bit)**
+- 🔗 **8-Bit UART**
+- ✖️ **Vedic 8×8 Multiplier**
+- 📦 **Synchronous FIFO**
+- 🚗 **Smart RC Car with Accelerometer**
+- 🎥 **Smart Surveillance System using Raspberry Pi**
 
 ---
 
